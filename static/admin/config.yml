@@ -78,10 +78,10 @@ collections:
         - {label: "Title", name: "title", widget: "string"}
         - {label: "Body", name: "body", widget: "markdown"}
       - label: "Services"
-        name: "about"
-        file: "src/content/pages/about.md"
+        name: "services"
+        file: "src/content/pages/services.md"
         fields:
-        - {label: "Template", name: "template", widget: "hidden", default: "about-page" }
+        - {label: "Template", name: "template", widget: "hidden", default: "services-page" }
         - {label: "Slug", name: "slug", widget: "hidden", default: "/about" }
         - {label: "Title", name: "title", widget: "string"}
         - {label: "Body", name: "body", widget: "markdown"}
