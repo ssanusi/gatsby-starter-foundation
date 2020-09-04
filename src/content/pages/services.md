@@ -1,5 +1,5 @@
 ---
-template: service-page
+template: services-page
 slug: /services
 title: About Foundation
 ---
