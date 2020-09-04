@@ -8,4 +8,12 @@ cta:
   ctaText: Know more
   ctaLink: /about
 ---
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+YOUR INFRASTRUCTURE AND NETWORK IS A RICH SOURCE OF
+
+SECURITY INTELLIGENCE.
+
+IT IS AN ALSO EVER EXPANDING SOURCE OF RISK AND ATTACK. OUR
+
+DELIVERED INTELLIGENCE
+
+KEEPS YOU ON THE KNOW.
