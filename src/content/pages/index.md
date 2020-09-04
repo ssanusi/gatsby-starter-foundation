@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: OUR DELIVERED CYBERSECURITY INTELLIGENCE
 tagline: DELIVERED INTELLIGENCE  TAKES YOUR SECURITY TO A NEW LEVEL
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+featuredImage: /assets/cybersecurity-img-3.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
