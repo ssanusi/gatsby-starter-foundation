@@ -82,7 +82,7 @@ collections:
         file: "src/content/pages/services.md"
         fields:
         - {label: "Template", name: "template", widget: "hidden", default: "services-page" }
-        - {label: "Slug", name: "slug", widget: "hidden", default: "/about" }
+        - {label: "Slug", name: "slug", widget: "hidden", default: "/services" }
         - {label: "Title", name: "title", widget: "string"}
         - {label: "Body", name: "body", widget: "markdown"}
       - label: "Contact"
