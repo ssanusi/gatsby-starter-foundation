@@ -1,8 +1,8 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
+title: OUR DELIVERED CYBERSECURITY INTELLIGENCE
+tagline: DELIVERED INTELLIGENCE  TAKES YOUR SECURITY TO A NEW LEVEL
 featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
 cta:
   ctaText: Know more
