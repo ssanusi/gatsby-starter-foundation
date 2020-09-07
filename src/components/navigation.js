@@ -5,19 +5,23 @@ import { RiMenu3Line, RiCloseLine } from 'react-icons/ri';
 const MenuItems = [
   {
     path: "/",
-    title: "Home"
+    title: "Home",
   },
   {
     path: "/about",
-    title: "About"
+    title: "About",
+  },
+  {
+    path: "/services",
+    title: "services",
   },
   {
     path: "/blog",
-    title: "Blog"
+    title: "Blog",
   },
   {
     path: "/contact",
-    title: "Contact"
+    title: "Contact",
   },
 ]
 
@@ -33,13 +37,13 @@ class Navigation extends React.Component {
   }
 
   handleToggleClick() {
-    this.setState(state => ({      
-      showMenu: !state.showMenu    
+    this.setState(state => ({
+      showMenu: !state.showMenu
     }))
   }
 
   render () {
-    const listMenuItems = MenuItems.map((menuItem, index) => 
+    const listMenuItems = MenuItems.map((menuItem, index) =>
       <ListLink key={index} to={menuItem.path}>{menuItem.title}</ListLink>
     )
     return (
