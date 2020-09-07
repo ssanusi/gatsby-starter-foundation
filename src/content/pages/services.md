@@ -1,7 +1,7 @@
 ---
 template: services-page
 slug: /services
-title: About Foundation
+title: DataSixth Services
 ---
 Thank you! Now say "nuclear wessels"! No! Don't jump! A sexy mistake. Anyone who laughs is a communist!
 
